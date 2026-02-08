@@ -9,6 +9,8 @@
 - [[Moca-Proof]] — 驗證與獎勵平台
 - [[Moca-Portfolio]] — 投資組合配額平台
 - [[Moca-Chain]] — 專用 L1 區塊鏈
+- [[Moca-NFT]] — Mocaverse NFT 系列
+- [[Realm-Points]] — 忠誠度積分系統
 - [[AIR-Kit]] — 身份與聲譽基礎設施
 - [[AIR-Shop]] — 忠誠度平台
 
@@ -17,6 +19,7 @@
 - [[The-Sandbox]] — 元宇宙平台
 - [[Anichess]] — 區塊鏈國際象棋
 - [[Open-Campus]] — 去中心化教育平台
+- [[Cosmic-Club]] — Moca ID 遊戲平台
 
 ---
 
