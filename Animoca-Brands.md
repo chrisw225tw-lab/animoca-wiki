@@ -70,4 +70,7 @@ Animoca Brands 正通過與 **Currenc Group（NASDAQ: CURR）** 的反向併購�
 
 ---
 
-**標籤:** #Animoca-Brands #公司概況 #Web3 #納斯達克上市
+[[Category:公司]]
+[[Category:Animoca Brands]]
+[[Category:Web3]]
+[[Category:納斯達克上市]]

@@ -55,4 +55,8 @@ Yat Siu 經常在以下場合發表演講：
 
 ---
 
-**標籤:** #Yat-Siu #創辦人 #Animoca-Brands #Web3 #數字產權
+[[Category:人物]]
+[[Category:Yat Siu]]
+[[Category:創辦人]]
+[[Category:Animoca Brands]]
+[[Category:Web3]]

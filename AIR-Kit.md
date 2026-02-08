@@ -84,4 +84,8 @@ AIR Kit 是以下產品的技術基礎：
 
 ---
 
-**標籤:** #AIR-Kit #技術 #數字身份 #Moca-Network #零知識證明
+[[Category:技術]]
+[[Category:AIR Kit]]
+[[Category:Moca Network]]
+[[Category:數字身份]]
+[[Category:零知識證明]]

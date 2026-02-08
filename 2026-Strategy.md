@@ -85,4 +85,9 @@ Animoca Brands 在 2025年底宣布重大戰略轉型，從純粹的 Web3 遊戲
 
 ---
 
-**標籤:** #2026-Strategy #戰略轉型 #穩定幣 #RWA #AI #DePIN
+[[Category:戰略]]
+[[Category:2026 Strategy]]
+[[Category:穩定幣]]
+[[Category:RWA]]
+[[Category:AI]]
+[[Category:DePIN]]

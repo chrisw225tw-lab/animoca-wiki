@@ -53,4 +53,8 @@ Moca ID 已整合至 Animoca 的 570+ 投資組合公司生態：
 
 ---
 
-**標籤:** #Moca-ID #數字身份 #Web3 #跨鏈
+[[Category:技術]]
+[[Category:Moca ID]]
+[[Category:Moca Network]]
+[[Category:數字身份]]
+[[Category:Web3]]
