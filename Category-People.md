@@ -7,6 +7,10 @@
 - [[Yat-Siu]] — 創辦人兼執行主席
 - [[Keyvan-Peymani]] — 首席戰略官（CSO）
 
+## 項目負責人
+
+- [[Kenneth-Shek]] — Moca Network Project Lead
+
 ---
 
 [[Category:總覽]]
