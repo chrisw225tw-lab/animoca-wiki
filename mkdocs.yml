@@ -61,6 +61,7 @@ nav:
     - Animoca Minds: Animoca-Minds.md
     - The Sandbox: The-Sandbox.md
     - Moca Network: Moca-Network.md
+    - Moca ID: Moca-ID.md
     - Anichess: Anichess.md
     - Cosmic Club: Cosmic-Club.md
     - AIR Kit: AIR-Kit.md
@@ -70,8 +71,6 @@ nav:
     - OpenSea: OpenSea.md
     - Yuga Labs: Yuga-Labs.md
     - Consensys: Consensys.md
-  - 技術:
-    - Moca ID: Moca-ID.md
   - 策略:
     - 2026 策略: 2026-Strategy.md
   - 收購: Acquisitions.md
