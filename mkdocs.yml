@@ -51,6 +51,7 @@ markdown_extensions:
 
 nav:
   - 首頁: index.md
+  - 📰 每日新聞: Daily-News.md
   - Animoca Brands: Animoca-Brands.md
   - 人物:
     - Yat Siu: Yat-Siu.md
