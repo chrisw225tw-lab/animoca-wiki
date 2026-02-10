@@ -34,28 +34,15 @@ plugins:
   - i18n:
       default_language: zh
       languages:
-        zh:
+        - locale: zh
           name: 中文
           build: true
           site_name: Animoca Wiki
-        en:
+        - locale: en
           name: English
           build: true
           site_name: Animoca Wiki (English)
       material_alternate: true
-      nav_translations:
-        en:
-          Home: Home
-          公司: Company
-          產品: Products
-          代幣: Tokens
-          投資組合: Investments
-          技術: Technology
-          概念: Concepts
-          合作夥伴: Partners
-          人物: People
-          收購: Acquisitions
-          策略: Strategy
 
 markdown_extensions:
   - pymdownx.highlight:
