@@ -27,6 +27,7 @@ theme:
 
 plugins:
   - search
+  - roamlinks
   - minify:
       minify_html: true
 
