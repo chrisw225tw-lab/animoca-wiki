@@ -1,7 +1,6 @@
 {
   "version": 2,
-  "framework": null,
-  "buildCommand": "pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-redirects mkdocs-minify-plugin && mkdocs build",
+  "buildCommand": "pip install --break-system-packages -r requirements.txt && mkdocs build",
   "outputDirectory": "site",
-  "installCommand": "pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-redirects mkdocs-minify-plugin"
+  "framework": null
 }

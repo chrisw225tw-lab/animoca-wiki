@@ -1,0 +1,84 @@
+site_name: Animoca Wiki
+site_description: Animoca Brands Knowledge Base
+site_author: Abby
+site_url: https://animoca-wiki.vercel.app
+docs_dir: .
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - redirects:
+      redirect_maps:
+        'index.md': 'README.md'
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: README.md
+  - Animoca Brands: Animoca-Brands.md
+  - People:
+    - Arthur Madrid: Arthur-Madrid.md
+    - Yat Siu: Yat-Siu.md
+    - Kenneth Shek: Kenneth-Shek.md
+    - Keyvan Peymani: Keyvan-Peymani.md
+  - Products:
+    - Animoca Minds: Animoca-Minds.md
+    - The Sandbox: The-Sandbox.md
+    - Moca Network: Moca-Network.md
+    - Anichess: Anichess.md
+    - Cosmic Club: Cosmic-Club.md
+    - AIR Kit: AIR-Kit.md
+    - AIR Shop: AIR-Shop.md
+  - Investments:
+    - Axie Infinity: Axie-Infinity.md
+    - OpenSea: OpenSea.md
+    - Yuga Labs: Yuga-Labs.md
+    - Consensys: Consensys.md
+  - Technology:
+    - Moca ID: Moca-ID.md
+  - Strategy:
+    - 2026 Strategy: 2026-Strategy.md
+  - Acquisitions: Acquisitions.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/chrisw225tw-lab/animoca-wiki
