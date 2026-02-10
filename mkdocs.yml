@@ -36,6 +36,7 @@ plugins:
       languages:
         - locale: zh
           name: 中文
+          default: true
           build: true
           site_name: Animoca Wiki
         - locale: en
