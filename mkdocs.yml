@@ -79,3 +79,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/chrisw225tw-lab/animoca-wiki
+
+extra_css:
+  - stylesheets/extra.css

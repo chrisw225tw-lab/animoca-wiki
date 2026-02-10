@@ -1,0 +1,9 @@
+/* Hide Category tags at the bottom of pages */
+a[href*="Category:"] {
+  display: none;
+}
+
+/* Also hide the surrounding brackets and spaces if they become empty */
+p:has(a[href*="Category:"]:only-child) {
+  display: none;
+}
