@@ -31,19 +31,6 @@ plugins:
   - roamlinks
   - minify:
       minify_html: true
-  - i18n:
-      default_language: zh
-      languages:
-        - locale: zh
-          name: 中文
-          default: true
-          build: true
-          site_name: Animoca Wiki
-        - locale: en
-          name: English
-          build: true
-          site_name: Animoca Wiki (English)
-      material_alternate: true
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -63,43 +50,36 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - 首頁: zh/index.md
-  - Animoca Brands: zh/Animoca-Brands.md
+  - 首頁: index.md
+  - Animoca Brands: Animoca-Brands.md
   - 人物:
-    - Yat Siu: zh/Yat-Siu.md
-    - Arthur Madrid: zh/Arthur-Madrid.md
-    - Kenneth Shek: zh/Kenneth-Shek.md
-    - Keyvan Peymani: zh/Keyvan-Peymani.md
+    - Yat Siu: Yat-Siu.md
+    - Arthur Madrid: Arthur-Madrid.md
+    - Kenneth Shek: Kenneth-Shek.md
+    - Keyvan Peymani: Keyvan-Peymani.md
   - 產品:
-    - Animoca Minds: zh/Animoca-Minds.md
-    - The Sandbox: zh/The-Sandbox.md
-    - Moca Network: zh/Moca-Network.md
-    - Anichess: zh/Anichess.md
-    - Cosmic Club: zh/Cosmic-Club.md
-    - AIR Kit: zh/AIR-Kit.md
-    - AIR Shop: zh/AIR-Shop.md
+    - Animoca Minds: Animoca-Minds.md
+    - The Sandbox: The-Sandbox.md
+    - Moca Network: Moca-Network.md
+    - Anichess: Anichess.md
+    - Cosmic Club: Cosmic-Club.md
+    - AIR Kit: AIR-Kit.md
+    - AIR Shop: AIR-Shop.md
   - 投資組合:
-    - Axie Infinity: zh/Axie-Infinity.md
-    - OpenSea: zh/OpenSea.md
-    - Yuga Labs: zh/Yuga-Labs.md
-    - Consensys: zh/Consensys.md
+    - Axie Infinity: Axie-Infinity.md
+    - OpenSea: OpenSea.md
+    - Yuga Labs: Yuga-Labs.md
+    - Consensys: Consensys.md
   - 技術:
-    - Moca ID: zh/Moca-ID.md
+    - Moca ID: Moca-ID.md
   - 策略:
-    - 2026 策略: zh/2026-Strategy.md
-  - 收購: zh/Acquisitions.md
+    - 2026 策略: 2026-Strategy.md
+  - 收購: Acquisitions.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/chrisw225tw-lab/animoca-wiki
-  alternate:
-    - name: 中文
-      link: /zh/
-      lang: zh
-    - name: English
-      link: /en/
-      lang: en
 
 extra_css:
   - stylesheets/extra.css

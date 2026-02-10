@@ -3,4 +3,3 @@ mkdocs-awesome-pages-plugin
 mkdocs-redirects
 mkdocs-minify-plugin
 mkdocs-roamlinks-plugin
-mkdocs-static-i18n
