@@ -60,8 +60,15 @@ Animoca Brands 在 2025年底宣布重大戰略轉型，從純粹的 Web3 遊戲
 - **[[Rayls]] 合作：** 機構級 RWA 代幣化基建
 
 ### AI 戰略
-- **Animoca Minds：** 與 Ethoswarm 合作推出 AI 代理經濟
+- **[[Animoca-Minds]]：** 與 Ethoswarm 合作推出 AI 代理經濟（2026年2月5日正式發布）
 - **遊戲 AI：** NPC 智能化、程序內容生成
+
+**Animoca Minds 詳情：**
+- **發布日期：** 2026年2月5日（搶先體驗）
+- **合作夥伴：** Ethoswarm / CryptoSlam
+- **核心功能：** 無需硬件即可部署持久 AI 代理
+- **用戶界面：** 電郵和 Telegram 自然語言互動
+- **區塊鏈整合：** 支持身份、經濟和溯源層
 
 ### 維持的核心業務
 雖然轉型，但以下業務持續：

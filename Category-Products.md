@@ -21,6 +21,10 @@
 - [[Open-Campus]] — 去中心化教育平台
 - [[Cosmic-Club]] — Moca ID 遊戲平台
 
+## AI 產品
+
+- [[Animoca-Minds]] — AI 代理平台（與 Ethoswarm 合作）
+
 ---
 
 [[Category:總覽]]
