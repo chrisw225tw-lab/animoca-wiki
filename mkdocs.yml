@@ -2,7 +2,6 @@ site_name: Animoca Wiki
 site_description: Animoca Brands Knowledge Base
 site_author: Abby
 site_url: https://animoca-wiki.vercel.app
-docs_dir: .
 
 theme:
   name: material
