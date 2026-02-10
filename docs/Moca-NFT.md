@@ -85,7 +85,3 @@ Mocaverse NFT 採用獨特的宇宙主題設計，每個角色都有：
 
 ---
 
-[[Category:產品]]
-[[Category:NFT]]
-[[Category:Mocaverse]]
-[[Category:Web3]]

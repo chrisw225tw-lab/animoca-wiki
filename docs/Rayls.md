@@ -76,8 +76,3 @@ Rayls 在 Animoca 2026 RWA 戰略中的角色：
 
 ---
 
-[[Category:RWA]]
-[[Category:合作夥伴]]
-[[Category:基礎設施]]
-[[Category:機構金融]]
-[[Category:Animoca Brands]]

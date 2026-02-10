@@ -96,8 +96,3 @@ Dapper Labs 專注於與主流品牌合作：
 
 ---
 
-[[Category:投資組合]]
-[[Category:遊戲]]
-[[Category:NFT]]
-[[Category:Flow]]
-[[Category:Web3]]

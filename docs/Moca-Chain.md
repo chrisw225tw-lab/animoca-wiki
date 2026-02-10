@@ -89,8 +89,3 @@ Moca Chain 是 [[Animoca-Brands]] 2026 年戰略的核心基礎設施之一，�
 
 ---
 
-[[Category:技術]]
-[[Category:Moca Network]]
-[[Category:區塊鏈]]
-[[Category:Layer 1]]
-[[Category:Web3]]

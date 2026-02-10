@@ -150,7 +150,3 @@ DePIN 將區塊鏈經濟模型應用於實體基礎設施：
 
 ---
 
-[[Category:概念]]
-[[Category:DePIN]]
-[[Category:基礎設施]]
-[[Category:Web3]]

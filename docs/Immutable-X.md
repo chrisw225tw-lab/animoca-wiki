@@ -108,8 +108,3 @@ Immutable X 是 Web3 遊戲的首選平台之一：
 
 ---
 
-[[Category:投資組合]]
-[[Category:基礎設施]]
-[[Category:Layer 2]]
-[[Category:遊戲]]
-[[Category:Web3]]

@@ -67,4 +67,3 @@ Animoca Brands 正通過與 Currenc Group（NASDAQ: CURR）的反向併購，計
 - [[Yat-Siu]] — 創辦人兼執行主席
 - [[Moca-Network]] — 旗艦數字身份項目
 
-[[Category:公司]] [[Category:Animoca Brands]] [[Category:戰略]] [[Category:穩定幣]] [[Category:RWA]] [[Category:AI]] [[Category:DePIN]] [[Category:納斯達克上市]]

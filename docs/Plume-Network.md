@@ -77,8 +77,3 @@ Plume Network 支持多種 RWA 代幣化：
 
 ---
 
-[[Category:RWA]]
-[[Category:合作夥伴]]
-[[Category:區塊鏈]]
-[[Category:機構金融]]
-[[Category:Animoca Brands]]

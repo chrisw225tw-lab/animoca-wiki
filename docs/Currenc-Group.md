@@ -80,8 +80,3 @@ Currenc Group 的現有股東將：
 
 ---
 
-[[Category:金融]]
-[[Category:上市]]
-[[Category:納斯達克]]
-[[Category:Animoca Brands]]
-[[Category:反向併購]]

@@ -76,8 +76,3 @@ Moca Portfolio 直接與 MOCA 代幣經濟模型掛鉤：
 
 ---
 
-[[Category:金融]]
-[[Category:Moca Network]]
-[[Category:DeFi]]
-[[Category:Web3]]
-[[Category:產品]]

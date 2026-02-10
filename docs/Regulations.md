@@ -156,7 +156,3 @@
 
 ---
 
-[[Category:概念]]
-[[Category:監管]]
-[[Category:合規]]
-[[Category:Web3]]

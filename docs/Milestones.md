@@ -124,8 +124,3 @@
 
 ---
 
-[[Category:公司]]
-[[Category:歷史]]
-[[Category:里程碑]]
-[[Category:Animoca Brands]]
-[[Category:納斯達克上市]]

@@ -122,8 +122,3 @@ Magic Eden 推出 Diamonds 忠誠度計劃：
 
 ---
 
-[[Category:投資組合]]
-[[Category:NFT]]
-[[Category:市場]]
-[[Category:Solana]]
-[[Category:Web3]]

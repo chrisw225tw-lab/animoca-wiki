@@ -97,7 +97,3 @@ MOCA 持有者可以質押代幣獲得多種獎勵：
 
 ---
 
-[[Category:代幣]]
-[[Category:Moca Network]]
-[[Category:治理]]
-[[Category:Web3]]

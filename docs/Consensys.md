@@ -85,8 +85,3 @@ Consensys 還為企業提供：
 
 ---
 
-[[Category:基礎設施]]
-[[Category:投資組合]]
-[[Category:以太坊]]
-[[Category:Animoca Brands]]
-[[Category:開發者工具]]

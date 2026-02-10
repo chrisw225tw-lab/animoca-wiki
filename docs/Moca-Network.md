@@ -63,8 +63,3 @@ Moca Network 建立在 [[AIR-Kit]] 之上：
 
 ---
 
-[[Category:產品]]
-[[Category:Moca Network]]
-[[Category:數字身份]]
-[[Category:AIR Kit]]
-[[Category:Web3]]

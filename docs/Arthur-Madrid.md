@@ -126,9 +126,3 @@ Arthur Madrid 被視為元宇宙領域的先驅之一：
 
 ---
 
-[[Category:人物]]
-[[Category:創辦人]]
-[[Category:The Sandbox]]
-[[Category:Animoca Brands]]
-[[Category:元宇宙]]
-[[Category:行政總裁]]

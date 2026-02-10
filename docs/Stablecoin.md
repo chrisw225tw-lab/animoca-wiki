@@ -144,7 +144,3 @@
 
 ---
 
-[[Category:概念]]
-[[Category:穩定幣]]
-[[Category:金融]]
-[[Category:Web3]]

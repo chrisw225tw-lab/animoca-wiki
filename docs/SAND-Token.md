@@ -112,7 +112,3 @@ SAND 持有者可以通過質押獲得：
 
 ---
 
-[[Category:代幣]]
-[[Category:The Sandbox]]
-[[Category:元宇宙]]
-[[Category:Web3]]

@@ -77,8 +77,3 @@ HKT 作為香港本地上市公司，與監管機構保持良好關係：
 
 ---
 
-[[Category:電訊]]
-[[Category:合作夥伴]]
-[[Category:支付]]
-[[Category:穩定幣]]
-[[Category:Animoca Brands]]

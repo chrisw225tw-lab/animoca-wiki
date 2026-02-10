@@ -101,8 +101,3 @@ Animoca Minds 代表 Animoca Brands 正式進入 **AI 代理經濟**領域，具
 
 ---
 
-[[Category:產品]]
-[[Category:AI]]
-[[Category:Animoca Brands]]
-[[Category:Moca Network]]
-[[Category:Web3]]

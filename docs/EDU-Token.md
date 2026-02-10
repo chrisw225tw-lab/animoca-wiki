@@ -120,7 +120,3 @@ EDU 用於購買和驗證教育憑證：
 
 ---
 
-[[Category:代幣]]
-[[Category:Open Campus]]
-[[Category:教育]]
-[[Category:Web3]]

@@ -137,8 +137,3 @@ Animoca 的 RWA 戰略同樣需要關注香港法規：
 
 ---
 
-[[Category:公司]]
-[[Category:監管]]
-[[Category:合規]]
-[[Category:香港]]
-[[Category:Animoca Brands]]

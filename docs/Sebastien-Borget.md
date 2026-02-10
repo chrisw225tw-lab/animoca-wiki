@@ -104,9 +104,3 @@ Sebastien Borget 是區塊鏈遊戲和元宇宙領域的知名倡導者：
 
 ---
 
-[[Category:人物]]
-[[Category:創辦人]]
-[[Category:The Sandbox]]
-[[Category:Animoca Brands]]
-[[Category:元宇宙]]
-[[Category:區塊鏈遊戲]]

@@ -66,7 +66,3 @@
 
 ---
 
-[[Category:產品]]
-[[Category:Moca ID]]
-[[Category:忠誠度積分]]
-[[Category:Web3]]

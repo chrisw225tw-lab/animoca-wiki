@@ -73,8 +73,3 @@ Moca Proof 建立在 [[Moca-Chain]] 之上，利用 Layer 1 區塊鏈的安全�
 
 ---
 
-[[Category:技術]]
-[[Category:Moca Network]]
-[[Category:數字身份]]
-[[Category:Web3]]
-[[Category:產品]]

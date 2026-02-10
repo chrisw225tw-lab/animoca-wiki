@@ -107,7 +107,3 @@
 
 ---
 
-[[Category:概念]]
-[[Category:數字產權]]
-[[Category:Web3]]
-[[Category:哲學]]

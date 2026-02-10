@@ -87,8 +87,3 @@ Sky Mavis 是越南的區塊鏈遊戲開發商，由 Trung Nguyen 於 2018 年�
 
 ---
 
-[[Category:投資組合]]
-[[Category:遊戲]]
-[[Category:Sky Mavis]]
-[[Category:Play-to-Earn]]
-[[Category:Web3]]

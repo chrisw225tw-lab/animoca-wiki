@@ -122,7 +122,3 @@ Keyvan Peymani 被視為 Web3 行業**機構化轉型**的關鍵推手：
 
 ---
 
-[[Category:人物]]
-[[Category:管理層]]
-[[Category:Animoca Brands]]
-[[Category:戰略]]

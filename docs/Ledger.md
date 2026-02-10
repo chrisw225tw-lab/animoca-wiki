@@ -85,8 +85,3 @@ Ledger 在加密貨幣安全領域的地位無可替代：
 
 ---
 
-[[Category:安全]]
-[[Category:投資組合]]
-[[Category:硬件]]
-[[Category:錢包]]
-[[Category:Animoca Brands]]

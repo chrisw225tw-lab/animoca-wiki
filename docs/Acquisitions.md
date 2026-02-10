@@ -117,7 +117,3 @@
 
 ---
 
-[[Category:公司]]
-[[Category:歷史]]
-[[Category:收購]]
-[[Category:Animoca Brands]]

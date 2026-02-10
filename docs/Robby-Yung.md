@@ -74,7 +74,3 @@ Robby Yung 在帶領 Animoca Brands 的過程中展現出以下特質：
 
 ---
 
-[[Category:人物]]
-[[Category:管理層]]
-[[Category:Animoca Brands]]
-[[Category:行政總裁]]

@@ -118,7 +118,3 @@ John Madden 擁有豐富的企業財務和公司治理經驗：
 
 ---
 
-[[Category:人物]]
-[[Category:管理層]]
-[[Category:Animoca Brands]]
-[[Category:公司治理]]

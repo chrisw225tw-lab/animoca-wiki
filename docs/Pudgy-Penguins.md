@@ -79,8 +79,3 @@ Pudgy Penguins 是少數成功跨越加密貨幣圈層、進入主流文化的 N
 
 ---
 
-[[Category:NFT]]
-[[Category:投資組合]]
-[[Category:品牌]]
-[[Category:Animoca Brands]]
-[[Category:消費品]]

@@ -117,7 +117,3 @@ Animoca 投資了多家 RWA 相關公司：
 
 ---
 
-[[Category:概念]]
-[[Category:RWA]]
-[[Category:金融]]
-[[Category:Web3]]

@@ -138,6 +138,3 @@
 
 ---
 
-[[Category:概念]]
-[[Category:元宇宙]]
-[[Category:Web3]]

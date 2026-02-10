@@ -87,8 +87,3 @@ LayerZero 是跨鏈領域的領導者之一：
 
 ---
 
-[[Category:基礎設施]]
-[[Category:投資組合]]
-[[Category:跨鏈]]
-[[Category:Animoca Brands]]
-[[Category:互操作性]]

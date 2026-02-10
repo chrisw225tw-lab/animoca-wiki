@@ -110,6 +110,3 @@
 
 ---
 
-[[Category:概念]]
-[[Category:代幣經濟學]]
-[[Category:Web3]]

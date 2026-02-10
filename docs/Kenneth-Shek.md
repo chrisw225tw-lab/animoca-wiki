@@ -98,8 +98,3 @@ Kenneth Shek 經常代表 Moca Network 發布重要產品和合作：
 
 ---
 
-[[Category:人物]]
-[[Category:管理層]]
-[[Category:Moca Network]]
-[[Category:Animoca Brands]]
-[[Category:項目管理]]

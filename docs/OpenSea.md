@@ -91,7 +91,3 @@ Yuga Labs 的 NFT 系列在 OpenSea 上佔據重要交易量，包括：
 
 ---
 
-[[Category:投資組合]]
-[[Category:NFT]]
-[[Category:市場]]
-[[Category:Web3]]

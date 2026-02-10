@@ -92,7 +92,3 @@ Jared Shaw 於2022年9月正式加入 [[Animoca-Brands]] 擔任財務總監，�
 
 ---
 
-[[Category:人物]]
-[[Category:管理層]]
-[[Category:Animoca Brands]]
-[[Category:財務]]

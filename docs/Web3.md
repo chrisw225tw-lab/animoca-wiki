@@ -109,6 +109,3 @@ Web3 的底層技術，提供：
 
 ---
 
-[[Category:概念]]
-[[Category:Web3]]
-[[Category:技術]]

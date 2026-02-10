@@ -78,8 +78,3 @@ AIR Shop 是 Animoca Brands 進軍消費者忠誠度市場的重要產品，將 
 
 ---
 
-[[Category:產品]]
-[[Category:電子商務]]
-[[Category:忠誠度計劃]]
-[[Category:Web3]]
-[[Category:消費者]]

@@ -84,8 +84,3 @@ Anichess 是 [[Animoca-Brands]] 遊戲組合的重要成員，與 [[The-Sandbox]
 
 ---
 
-[[Category:遊戲]]
-[[Category:區塊鏈遊戲]]
-[[Category:NFT]]
-[[Category:Play-to-Earn]]
-[[Category:Animoca Brands]]

@@ -108,7 +108,3 @@ Polygon 擁有最活躍的 Ethereum 擴容生態之一：
 
 ---
 
-[[Category:投資組合]]
-[[Category:基礎設施]]
-[[Category:Layer 2]]
-[[Category:Web3]]

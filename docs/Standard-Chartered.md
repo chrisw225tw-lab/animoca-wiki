@@ -69,8 +69,3 @@
 
 ---
 
-[[Category:金融]]
-[[Category:合作夥伴]]
-[[Category:銀行]]
-[[Category:穩定幣]]
-[[Category:Animoca Brands]]

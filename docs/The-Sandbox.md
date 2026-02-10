@@ -73,8 +73,3 @@ The Sandbox 與眾多知名品牌合作：
 
 ---
 
-[[Category:產品]]
-[[Category:The Sandbox]]
-[[Category:元宇宙]]
-[[Category:UGC]]
-[[Category:NFT]]

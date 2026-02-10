@@ -103,7 +103,3 @@ Evan Auyang 在香港擁有廣泛的政府和監管連繫：
 
 ---
 
-[[Category:人物]]
-[[Category:管理層]]
-[[Category:Animoca Brands]]
-[[Category:集團總裁]]

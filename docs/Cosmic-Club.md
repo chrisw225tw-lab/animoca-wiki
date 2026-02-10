@@ -77,7 +77,3 @@ Cosmic Bomber 是一款快節奏的 PvP 對戰遊戲，靈感源自經典炸彈�
 
 ---
 
-[[Category:產品]]
-[[Category:Moca ID]]
-[[Category:遊戲]]
-[[Category:Web3]]

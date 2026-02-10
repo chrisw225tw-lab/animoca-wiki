@@ -97,6 +97,3 @@ Animoca 宣佈從純 Web3 遊戲投資者轉型為全面的數字資產綜合企
 
 ---
 
-[[Category:公司]]
-[[Category:歷史]]
-[[Category:Animoca Brands]]

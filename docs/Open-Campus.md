@@ -76,8 +76,3 @@ Open Campus 是 [[Animoca-Brands]] Web3 教育戰略的核心項目，與 [[Moca
 
 ---
 
-[[Category:教育]]
-[[Category:去中心化]]
-[[Category:Web3]]
-[[Category:Animoca Brands]]
-[[Category:平台]]

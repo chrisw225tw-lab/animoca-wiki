@@ -91,6 +91,3 @@ David Kim 和 [[Yat-Siu]] 的合作是 Animoca Brands 成功的基石：
 
 ---
 
-[[Category:人物]]
-[[Category:創辦人]]
-[[Category:Animoca Brands]]

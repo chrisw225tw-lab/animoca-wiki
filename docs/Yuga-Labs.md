@@ -81,8 +81,3 @@ Yuga Labs 定義了 NFT 項目的許多標準：
 
 ---
 
-[[Category:NFT]]
-[[Category:投資組合]]
-[[Category:元宇宙]]
-[[Category:Animoca Brands]]
-[[Category:Web3]]
