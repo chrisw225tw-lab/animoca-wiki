@@ -18,14 +18,14 @@
 
 本報告提供截至2026年2月11日 Animoca Brands 的運營與競爭格局全面情報。主要亮點包括：
 
-- **比特幣 ETF 復甦信號：** 美國現貨比特幣 ETF 週一吸納1.45億美元資金流入，上週五更達3.71億美元，顯示經過數週流出後可能趨於穩定
-- **以太坊 + AI 融合：** Vitalik Buterin 概述以太坊與 AI 可協作的關鍵領域，與 Animoca 的 AI 代理策略直接相關
-- **市場波動持續：** 比特幣在經歷15%回調後於7萬-7.8萬美元區間交易；機構持續累積
-- **加密基礎設施發展：** 英國央行與 Chainlink 合作測試分佈式賬本結算；Ledger 整合 OKX DEX
-- **競爭格局：** Discord 年齡驗證政策變更可能影響 Web3 社群平台；加密交易所 Backpack 宣布與 IPO 掛鉤的代幣解鎖機制
-- **安全聚焦：** 以太坊基金會與 SEAL 合作打擊錢包竊取器，因地址投毒詐騙增加
+- **比特幣暴跌真相：** [BlockTempo 深度分析](https://www.blocktempo.com/in-depth-analysis-of-the-reasons-for-the-bitcoin-crash/) 揭示 IBIT 結構性產品引發去槓桿連鎖風暴，但 ETF 意外淨流入顯示機構仍在累積
+- **Arthur Hayes 觀點：** 衍生品「雙向放大」價格走勢，IBIT 結構性產品是華爾街「被動殺傷武器」— [BlockTempo](https://www.blocktempo.com/arthur-hayes-derivatives-amplify-not-cause-volatility/)
+- **Wintermute CEO 駁斥：** [否認大型機構爆倉謠言](https://www.blocktempo.com/wintermute-ceo-denies-institutional-collapse/)，系統性風險極低
+- **AI.com 域名天價：** 32年前$100購買，現以[$7000萬賣給Crypto.com](https://www.blocktempo.com/arsyan-ismail-ai-com-domain-sold-crypto-com-70-million/)
+- **SBF 獄中喊冤：** [指控拜登政府政治司法戰](https://www.blocktempo.com/sbf-accuses-biden-administration-political-persecution-ftx-solvency-dispute/)，稱 FTX 一直有償付能力
+- **以太坊 + AI 融合：** Vitalik Buterin 發表四大交叉領域願景，與 Animoca Minds 戰略高度相關
 
-**投資啟示：** 加密市場顯示穩定跡象，ETF 資金流入反彈。以太坊+AI 融合敘事強化了 Animoca Minds 的戰略定位。基礎設施發展（英國結算測試、DEX 整合）支持更廣泛的 Web3 採用論點。
+**投資啟示：** 市場完成槓桿清洗後可能「恢復只漲不跌」，但需控制個人風險。Consensus Hong Kong（2月18-20日）是潛在催化劑。
 
 ---
 

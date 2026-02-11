@@ -10,10 +10,11 @@
 **[查看最新情報 →](Daily-News/)** | **[📊 完整報告（含來源）→](https://ab-research.vercel.app/)**
 
 **今日速覽（2026-02-11）：**
-- 📈 **比特幣 ETF 復甦** — 週一吸納 $145M，機構持續累積
-- 🤖 **以太坊 + AI 融合** — Vitalik 發表四大交叉領域願景
-- ⚔️ **Backpack IPO 代幣** — 交易所推出 IPO 掛鉤解鎖機制
-- 🔒 **Discord 年齡驗證** — 2026年3月實施新政策
+- 📉 **[比特幣暴跌真相](https://www.blocktempo.com/in-depth-analysis-of-the-reasons-for-the-bitcoin-crash/)** — IBIT 結構性產品引發去槓桿連鎖風暴
+- 💡 **[Arthur Hayes 分析](https://www.blocktempo.com/arthur-hayes-derivatives-amplify-not-cause-volatility/)** — 衍生品「雙向放大」，清洗後恢復「只漲不跌」
+- 🏦 **[Wintermute CEO 駁斥](https://www.blocktempo.com/wintermute-ceo-denies-institutional-collapse/)** — 無系統性風險，大型機構未爆倉
+- 🌐 **[AI.com 域名天價](https://www.blocktempo.com/arsyan-ismail-ai-com-domain-sold-crypto-com-70-million/)** — 32年前$100購買，現以$7000萬成交
+- ⚖️ **[SBF 獄中喊冤](https://www.blocktempo.com/sbf-accuses-biden-administration-political-persecution-ftx-solvency-dispute/)** — 指控拜登政府政治司法戰
 
 ---
 
