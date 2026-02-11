@@ -7,12 +7,13 @@
 
 ## 📰 每日新聞
 
-**[查看最新情報 →](Daily-News/)**
+**[查看最新情報 →](Daily-News/)** | **[📊 完整報告（含來源）→](https://ab-research.vercel.app/)**
 
-**今日速覽（2026-02-10）：**
-- 🎯 **Animoca Minds 正式發布** — 與 Ethoswarm 推出 AI 代理平台
-- 🎮 **The Sandbox 社群頭像系列** — 2月6日發布首個社群設計系列
-- 🤖 **Crypto.com CEO 推出 ai.com** — 超級碗 LX 廣告首映
+**今日速覽（2026-02-11）：**
+- 📈 **比特幣 ETF 復甦** — 週一吸納 $145M，機構持續累積
+- 🤖 **以太坊 + AI 融合** — Vitalik 發表四大交叉領域願景
+- ⚔️ **Backpack IPO 代幣** — 交易所推出 IPO 掛鉤解鎖機制
+- 🔒 **Discord 年齡驗證** — 2026年3月實施新政策
 
 ---
 

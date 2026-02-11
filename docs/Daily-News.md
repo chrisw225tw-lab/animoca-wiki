@@ -1,6 +1,8 @@
 # 📰 每日新聞 — 2026年2月11日
 
-*完整情報報告轉載自 ab-research 倉庫*
+> 🔗 **完整報告（含來源驗證）：** [AB Research →](https://ab-research.vercel.app/reports/2026-02-11/)
+> 
+> 所有資訊均附帶來源連結，方便事實查核
 
 ---
 
@@ -254,4 +256,8 @@ Ledger 是 Animoca 投資組合公司。此整合強化了 Ledger 在 DeFi 生�
 
 ---
 
-*查看完整歷史報告：[ab-research GitHub](https://github.com/chrisw225tw-lab/ab-research)*
+## 🔗 相關連結
+
+- 📊 **完整報告（含來源驗證）：** [AB Research →](https://ab-research.vercel.app/reports/2026-02-11/)
+- 📚 **歷史報告存檔：** [AB Research 報告庫](https://ab-research.vercel.app/)
+- 🐙 **GitHub 原始檔：** [ab-research](https://github.com/chrisw225tw-lab/ab-research)

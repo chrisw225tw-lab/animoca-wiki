@@ -1,0 +1,25 @@
+/* Hide Category tags at the bottom of pages */
+a[href*="Category:"] {
+  display: none !important;
+}
+
+/* Hide raw [[Category:...]] text that roamlinks couldn't convert */
+p:has(a[href*="Category:"]) {
+  display: none !important;
+}
+
+/* Hide any text containing [[Category:]] patterns */
+article.md-content__inner > *:last-child,
+article.md-content__inner > *:nth-last-child(2),
+.md-typeset p:last-child,
+.md-typeset p:nth-last-child(2) {
+  &:has(code), 
+  &:contains("[[Category:") {
+    display: none !important;
+  }
+}
+
+/* Force hide any element with Category text */
+*:has(> *:contains("[[Category:")) {
+  display: none !important;
+}
